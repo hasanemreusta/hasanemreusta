@@ -18,6 +18,7 @@ I build backend systems, real-time apps and AI-powered tools, and like taking an
 | 🎬 [**Mystery Shorts Bot**](https://github.com/hasanemreusta/mystery-shorts-bot) | Autonomous 7-stage multi-agent pipeline that researches, writes, voices, edits and publishes short videos | Python, Claude Code, Whisper, MoviePy |
 | ⚖️ [**Turkish Legal RAG**](https://github.com/hasanemreusta/turkish-legal-rag) | RAG over 41,973 Turkish legal articles, 7.8× Citation F1 over the BM25 baseline | FAISS, BM25, QLoRA, HuggingFace |
 | 📊 [**Online Retail Big Data**](https://github.com/hasanemreusta/online-retail-big-data-analytics) | Streaming analytics and ALS recommender with a live dashboard | Spark, Kafka, MongoDB, Flask |
+| 🗂️ [**Kenar: Yapılacaklar**](https://www.microsoft.com/store/productId/9PCJR13N9HFM?ocid=libraryshare) | Windows edge-docked to-do app on the Microsoft Store, Turkish natural-language quick add, mini calendar, fully local, with an MCP server for AI assistants | Python, Tkinter, MCP, MSIX |
 | 🔴 [**Push or Perish**](https://github.com/hasanemreusta/pushOrPerishMSP430) | Bare-metal reaction game, interrupt-driven | MSP430 Assembly |
 
 ## Tech
